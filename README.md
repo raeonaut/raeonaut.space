@@ -1,2 +1,2 @@
-# raenaut.space
+# raeonaut.space
 Raeo's personal space
